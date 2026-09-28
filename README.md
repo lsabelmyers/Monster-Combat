@@ -16,8 +16,7 @@ a file so you can look back at what worked.
 
 ## How to run it
 
-You need Python 3.10 or later (for the match-case-style structure used in the
-game loop).
+You need Python 3 installed.
 
 ```
 python monster_combat.py
